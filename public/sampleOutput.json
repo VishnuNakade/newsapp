@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "Josh Fordham",
+      "title": "England reveal Cricket World Cup squad as Jason Roy dropped for Harry Brook with Ben Stokes on 15-man list...",
+      "description": "England have confirmed their official Cricket World Cup squad ahead of the tournament in October. The competition, which is being held in India, kicks off with a repeat of the 2019 final between En…",
+      "url": "https://talksport.com/sport/cricket/1568816/england-cricket-world-cup-squad-confirmed/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/09/7193160b-1321-468e-a632-872eaabf1ec6.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+      "publishedAt": "2023-09-17T13:28:13Z",
+      "content": "England have confirmed their official Cricket World Cup squad ahead of the tournament in October.\r\nThe competition, which is being held in India, kicks off with a repeat of the 2019 final between Eng… [+985 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "India crush Sri Lanka by 10 wickets to win eighth Asia Cup cricket crown",
+      "description": "Sri Lanka were bowled all-out for just 50 runs, as India’s Mohammed Siraj claimed a career-best 6-21.",
+      "url": "http://www.aljazeera.com/sports/2023/9/17/india-beat-sri-lanka-10-wickets-win-eighth-asia-cup-cricket-crown",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/AP23260385213604-1694947523.jpg?resize=1920%2C1440",
+      "publishedAt": "2023-09-17T13:06:44Z",
+      "content": "India have lifted the Asia Cup for a record-extending eighth time after routing defending champions Sri Lanka by 10 wickets with Mohammed Siraj claiming a career-best 6-21, including four wickets in … [+1982 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Upbeat England search for statement win over Japan",
+      "description": "England have talked golf, padel and cricket in the build-up to Sunday's pool-stage meeting with Japan, but the fun and games needs to be backed up with further improvement.",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/66833196",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/12228/production/_131108247_marler_getty.jpg",
+      "publishedAt": "2023-09-17T10:22:16.403244Z",
+      "content": "England hooker Jamie George shares a joke with centre Manu Tuilagi at training before the team's meeting with Japan\r\nWhat better test for false dawns than the Land of the Rising Sun?\r\nEngland hope th… [+6033 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
